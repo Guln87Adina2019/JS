@@ -47,7 +47,7 @@ console.log((a>b)) || ((c>a)); // 9>10(false) 12>9(true) =>true
 
 
 
-//Күрделі өрнек
+//Күрделі өрнек 
 let age=20, hasTicket=true,isVip=false;
 
 if((age>=18&&hasTicket ) || isVip){
@@ -58,3 +58,5 @@ else{
 }
 
 // Нәтиже:Сізге кешке кіруге болады!
+
+// updated
